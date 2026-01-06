@@ -11,8 +11,8 @@ import json            # Used to parse JSON responses
 # Step 2: Define the ThingSpeak API URL
 # Replace with your channel ID and Read API Key
 # 'results=5' fetches the last 5 entries
-THINGSPEAK_URL = "https://api.thingspeak.com/channels/2802390/fields/1.json?api_key=4QTWQ1O3US1YYRA8&results=5"
-
+# THINGSPEAK_URL = "https://api.thingspeak.com/channels/2802390/fields/1.json?api_key=4QTWQ1O3US1YYRA8&results=5"
+THINGSPEAK_URL = "<YOUR_THINGSPEAK_URL_HERE>"
 # Step 3: Fetch data from ThingSpeak
 # urllib.request.urlopen sends a GET request to the URL
 response = urllib.request.urlopen(THINGSPEAK_URL)
