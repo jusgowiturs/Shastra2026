@@ -149,11 +149,8 @@ GET https://api.thingspeak.com/channels/CHANNEL_ID/fields/1.json?api_key=YOUR_RE
     {"created_at":"2026-01-01T09:59:45Z","entry_id":9,"field1":"24"}
   ]
 }
-```
-
-
-
 ---
 
-### Feebbank Link
-![Scan QRCode](FB.jpg)
+My Git Repo: [https://github.com/jusgowiturs/Shastra2026](https://github.com/jusgowiturs/Shastra2026)
+
+---
